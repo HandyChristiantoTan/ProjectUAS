@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_naruto"
+        android:icon="@drawable/ic_person_24"
+        android:title="Naruto" />
+
+    <item
+        android:id="@+id/menu_onepiece"
+        android:icon="@drawable/ic_person_24"
+        android:title="One Piece"/>
+
+    <item
+        android:id="@+id/menu_sao"
+        android:icon="@drawable/ic_person_24"
+        android:title="SAO"/>
+
+</menu>
